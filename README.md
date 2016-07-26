@@ -16,7 +16,7 @@ to activate execute:
 Then run:
 
 ```
-install -r requirements -- to add all the elements required to run this instance from the \cms\project folder
+install -r requirements.txt -- to add all the elements required to run this instance from the \cms\project folder
 ```
 
 You may need
