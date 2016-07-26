@@ -16,12 +16,12 @@ to activate execute:
 Then run:
 
 ```
-install -r requirements -- to add all the elements required to run this instance python
+install -r requirements -- to add all the elements required to run this instance from the \cms\project folder
 ```
 
 You may need
 ```
-manage.py migrate
+python manage.py migrate
 ```
 
 To activate DgangoCMS:
