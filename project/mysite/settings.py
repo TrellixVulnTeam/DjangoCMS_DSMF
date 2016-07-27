@@ -41,7 +41,7 @@ ROOT_URLCONF = 'mysite.urls'
 
 
 
-WSGI_APPLICATION = 'mysite.wsgi.application'
+WSGI_APPLICATION = 'project.mysite.wsgi.application'
 
 
 # Database
